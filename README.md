@@ -1,2 +1,2 @@
 # Data-Structures
-![Data-Structures](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Frahhularora%2Fthe-ultimate-guide-for-data-structures-algorithm-interviews-npo&psig=AOvVaw3O3OVNF1NlbHbVzEml7GHE&ust=1646910757926000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLimx_LyuPYCFQAAAAAdAAAAABAD)
+![Data-Structures](https://res.cloudinary.com/practicaldev/image/fetch/s--rjxO02ux--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4qxi1gsnhuey77654qj.png)
