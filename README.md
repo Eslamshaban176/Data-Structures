@@ -11,3 +11,12 @@
   * circular queue
   * periority queue
   * dequeue
+## Linked List
+  * singly linked list
+  * doubly linked list
+  * circular linked list
+  * circular doubly linked list
+
+## Tree
+  * Binary Search Tree
+  * AVL Tree
