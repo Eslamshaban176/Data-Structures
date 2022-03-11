@@ -1,8 +1,8 @@
 
-
+package basics;
 
 public class StackList<T>{
-    class Node{
+    private class Node{
         T data;
         Node next;
         Node(T data){
@@ -19,7 +19,8 @@ public class StackList<T>{
     }
     void push(T item){
         Node temp = new Node(item);
-        if(temp == null){
+        if(top == null){
+            top = temp;
             return;
         }
         temp.next = top;
@@ -31,7 +32,7 @@ public class StackList<T>{
         top = top.next; 
         return temp;    
     }
-    T peek(){
+    T getTop(){
         if(!isEmpty()) return top.data;
         return null;
     }
